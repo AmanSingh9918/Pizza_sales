@@ -55,13 +55,8 @@ pizza-sales-dashboard/
 ## 📈 Dashboard Preview
 
 ### 🖥️ Full Dashboard Overview
-![Dashboard Overview](images/dashboard_overview.png)
-
 ### 📊 KPIs & Totals
-![KPIs](images/kpi_metrics.png)
-
 ### 🍕 Sales by Category & Size
-![Sales Breakdown](images/category_size_sales.png)
 
 ---
 
