@@ -70,15 +70,6 @@ pizza-sales-dashboard/
 
 ---
 
-## 🎯 Use Cases
-
-- Academic/portfolio project for analytics and BI roles  
-- Interview-ready case study  
-- Practice for SQL + Power BI integration  
-- Data storytelling using real-world KPIs
-
----
-
 ## 🙋‍♂️ Author
 
 Made with 💻 by [Aman Singh](https://github.com/AmanSingh9918)  
